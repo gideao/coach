@@ -1,4 +1,4 @@
-# Coach [Under Development]
+# Coach [Under Development] [![Build Status](https://travis-ci.org/gideao/coach.svg?branch=master)](https://travis-ci.org/gideao/coach)
 
 This a set of tools for help on solving problems doing
 things like compile, test and submit files to URI Online Judge's platform.
