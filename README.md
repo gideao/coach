@@ -1,13 +1,12 @@
 # Coach [Under Development] [![Build Status](https://travis-ci.org/gideao/coach.svg?branch=master)](https://travis-ci.org/gideao/coach)
 
-This a set of tools for help on solving problems doing
-things like compile, test and submit files to URI Online Judge's platform.
+This is a tool to help automate common tasks such as compiling, testing and submitting files when solving programming challenges on the URI Online Judge platform.
 
-The project's goals are listed below.
+This project's goals are listed below.
 
-- Compile the code
+- Compile your code file based on its extension
 - Test your solution against the test cases
-- Submit the solution's file
+- Upload solution's file
 
 ## Status
 
